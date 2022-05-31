@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653962516 source:c:\users\juan\desktop\juan\facultad\programacion\primer cuatrimestre, semestre\programación y laboratorio i\tp inicial\tp inicial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+
